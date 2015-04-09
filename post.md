@@ -1,0 +1,36 @@
+Going to Hack Arizona was an extremely exciting experience. Seeing the projects come together like the Arduino ASL translator come together was an extremely exciting thing to watch. Some teams were composed of a few members while others were more of a community effort. It was really a nonjudgemental labortary of creativity. 
+
+
+<h2> Drone Technology </h2> 
+
+<img src="https://d262ilb51hltx0.cloudfront.net/max/1620/1*THzclLTohSrP7HMDq8C-MQ.png">
+
+One of the most interesting things was the number of drones provided and how they were used by the different teamas. Raytheon, one of the sponsors, provided a number of Parrot AR Drones 2.0 to Hack Arizona participants. They also provided their expertise and knowledge to help students work with the drones. It was really fascinating to work with some of the teams using the drones because we were really running into some of the early problems it seemed that came with early stage computers. This is a market that's growing exponentially which will start to see more and more earlier stage companies in it which means there will be far more of a need for programmers fluent in programming these drones. This particular project involved a drone touring a house or a dangerous terrain for somebody. This streams directly into a camera feed to the user of a 3d world using respoke and an oculus rift. It shares that with a guide allowing us to go places that are more dangerous.
+
+
+<h2> Health-Related Apps </h2> 
+
+<img src="https://d262ilb51hltx0.cloudfront.net/max/960/1*vnqvsk_s9coMveh0GdWQpQ.png">
+
+
+Another sector that was highly represented among participant's projects was the health sector. There seems to be a growing social movement, especially in the United States around health. This particular team was working on a mobile application that would allow you to enter your specific health data and the app would recommend the best foods for you to eat. While this app idea may already be out there, the team was compromised was 17 and 18 year olds making what they were doing all the more impressive. In this picture, they're working on the user interface of the app in which they are trying to make it as simple as possible for data entry. On the back of the white board, they were working on their algorithm, trying to determine which elements to leave out and which to include. Another team was working on an idea to make it easier for health professionals and family members to detect when a loved one is depressed. Mental health has become far more recognized as a major issue in recent decades, so it's refreshing to see some teams tackling the identification issue. Often, by the time the sickness is identified, the patient has already been going down a terrible negative spiral. A team, headed by a female engineering management student from Spain, was trying to determine whether or not someone was depressed based on the patterns in their text messages. Although there are enormous regulatory barriers to acquiring that information, it is an interesting way of monitoring someone's mental health because so many of us text on a regular basis.
+
+<h2> Hardware </h2>
+<img src="https://d262ilb51hltx0.cloudfront.net/max/1000/1*5WxQ9JVdNQvQKaV_xICL2g.png">
+
+
+One of the teams was able to build an Arudino American Sign Language translator using the Arduino microcontrollers to translate hand gestures into speech. This ended up winning the overall prize. This type of technology could be extremely useful for those who need to use sign langugae and for learning purposes. This project was just an example of how diverse the projects were and how many of them actually solved real world health related problems.
+
+<h2> Big Data/Sustainability </h2>
+
+<img src="https://d262ilb51hltx0.cloudfront.net/max/2000/1*fj5BYL4How-27rel79ZkTg.png">
+
+
+Metropia, a local Tucson startup that is trying to make traffic move faster in major cities by coordinating departure times, also sponsored the event. A 17-year old programmer worked on an idea that would take into account traffic lights to make the process even more efficient. It was interesting to see him work with an 18-year old who was far more of a communicator and marketer. Seeing teams come together while others didn't was fascinating because it was apparent that a lot of factors were at work. The project's name was called GridLock. The way this entire team of very young talented programmers worked together so cohesively was very inspiring. It was almost like they didn't need project management books; they just knew it intuitively and delivered.
+
+<h2> A Side Note: Gender and Ethnic Diversity </h2>
+
+<img src="https://d262ilb51hltx0.cloudfront.net/max/2000/1*t_OSzdA1lUAuqXM0X1ANPA.png">
+
+
+Kind of a lead in from the discussion about the female student leading the text messaging depression detection system, another insight was that so many teams were being lead by ethnic groups or women. There's a perception that the tech industry is a haven for white middle-class males and from going to this hackathon that could not be further from the truth. People from all over the world travelled to come to the hackathon without any preconception of race, gender, or religious affiliation. It was really a common group of people bound together by a desire to build, an identity that superseded all others. A lot of the health-related ideas came from female participants and many of the waste reducing ideas came from those who were from countries where resources may be scarcer. This created an overall balanced feel to the hackathon where real problems around the world were being addressed. Having more diversity at events can often bring in a number of different perspectives, fostering a creative environment on which socially conscious solutions can be developed. Hack Arizona did a fantastic job of this.
