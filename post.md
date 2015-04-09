@@ -3,9 +3,13 @@ Going to Hack Arizona was an extremely exciting experience. Seeing the projects 
 
 <h2> Drone Technology </h2> 
 
-<img src="https://d262ilb51hltx0.cloudfront.net/max/1620/1*THzclLTohSrP7HMDq8C-MQ.png">
 
-One of the most interesting things was the number of drones provided and how they were used by the different teamas. Raytheon, one of the sponsors, provided a number of Parrot AR Drones 2.0 to Hack Arizona participants. They also provided their expertise and knowledge to help students work with the drones. It was really fascinating to work with some of the teams using the drones because we were really running into some of the early problems it seemed that came with early stage computers. This is a market that's growing exponentially which will start to see more and more earlier stage companies in it which means there will be far more of a need for programmers fluent in programming these drones. This particular project involved a drone touring a house or a dangerous terrain for somebody. This streams directly into a camera feed to the user of a 3d world using respoke and an oculus rift. It shares that with a guide allowing us to go places that are more dangerous.
+One of the most interesting things was the number of drones provided and how they were used by the different teamas. Raytheon, one of the sponsors, provided a number of Parrot AR Drones 2.0 to Hack Arizona participants. 
+<img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/11034212_1582991431940649_8031883822966760863_n.jpg?oh=8c008d02d069800fec0336e28f717759&oe=55A1C5EB&__gda__=1436038843_11dd892f51941920bb4144f07ce4bfdf">
+
+They also provided their expertise and knowledge to help students work with the drones. It was really fascinating to work with some of the teams using the drones because we were really running into some of the early problems it seemed that came with early stage computers. This is a market that's growing exponentially which will start to see more and more earlier stage companies in it which means there will be far more of a need for programmers fluent in programming these drones. This particular project involved a drone touring a house or a dangerous terrain for somebody. This streams directly into a camera feed to the user of a 3d world using respoke and an oculus rift. It shares that with a guide allowing us to go places that are more dangerous.
+
+<img src="https://d262ilb51hltx0.cloudfront.net/max/1620/1*THzclLTohSrP7HMDq8C-MQ.png">
 
 
 <h2> Health-Related Apps </h2> 
